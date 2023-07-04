@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Programing workshop\\C#\\Magic_villa_API\\MagixVilla_API\\MagixVilla_API.csproj": {}
+    "G:\\Programing workshop\\C#\\Magic_villa_API\\MagixVilla_API\\MagicVilla_API.csproj": {}
   },
   "projects": {
-    "G:\\Programing workshop\\C#\\Magic_villa_API\\MagixVilla_API\\MagixVilla_API.csproj": {
+    "G:\\Programing workshop\\C#\\Magic_villa_API\\MagixVilla_API\\MagicVilla_API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Programing workshop\\C#\\Magic_villa_API\\MagixVilla_API\\MagixVilla_API.csproj",
-        "projectName": "MagixVilla_API",
-        "projectPath": "G:\\Programing workshop\\C#\\Magic_villa_API\\MagixVilla_API\\MagixVilla_API.csproj",
+        "projectUniqueName": "G:\\Programing workshop\\C#\\Magic_villa_API\\MagixVilla_API\\MagicVilla_API.csproj",
+        "projectName": "MagicVilla_API",
+        "projectPath": "G:\\Programing workshop\\C#\\Magic_villa_API\\MagixVilla_API\\MagicVilla_API.csproj",
         "packagesPath": "C:\\Users\\Kev\\.nuget\\packages\\",
         "outputPath": "G:\\Programing workshop\\C#\\Magic_villa_API\\MagixVilla_API\\obj\\",
         "projectStyle": "PackageReference",
